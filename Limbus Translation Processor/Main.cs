@@ -197,6 +197,7 @@ namespace Translation_Devouring_Siltcurrent
                             @"EGOVoiceDig",
                             @"PersonalityVoiceDlg",
                             @"StoryData",
+							@"RPGSystem",
                             CurrentProfile.FontFiles.AlsoCopyFontFiles ? @"Font"         : @"",
                             CurrentProfile.FontFiles.AlsoCopyFontFiles ? @"Font\Context" : @"",
                             CurrentProfile.FontFiles.AlsoCopyFontFiles ? @"Font\Title"   : @""
